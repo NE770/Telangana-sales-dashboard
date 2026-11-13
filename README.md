@@ -3,6 +3,7 @@
 An interactive sales analytics dashboard for steel, cement and block brands across eight Telangana districts. The page reads its data from a SQLite database through a Flask REST API.
 
 
+http://127.0.0.1:5000/
 <img width="1577" height="962" alt="Telangana sales dashboard" src="https://github.com/user-attachments/assets/0dfc5b40-6dc2-4297-b69b-846496f15cc1" />
 
 
