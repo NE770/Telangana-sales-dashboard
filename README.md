@@ -36,7 +36,7 @@ Brand names (Tata Tiscon, Vizag Steel, JSW Neosteel, UltraTech, Sagar Cements, D
 Built with AI assistance (Claude), then customised by me.
 
 **What I changed or added:**
-- (write your own changes here, for example "added all 33 districts" or "added CSV import")
+- ("i have changed the values and some brand names which are in my own added ")
 
 ## Author
 Neerudi Rahul
