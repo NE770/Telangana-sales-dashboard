@@ -2,7 +2,8 @@
 
 An interactive sales analytics dashboard for steel, cement and block brands across eight Telangana districts. The page reads its data from a SQLite database through a Flask REST API.
 
-![Dashboard screenshot](screenshot.png)
+
+(screenshot.png)
 
 ## Features
 - KPI strip: revenue, orders, average order value and conversion rate, each compared with the previous period
